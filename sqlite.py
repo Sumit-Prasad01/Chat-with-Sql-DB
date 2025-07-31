@@ -4,7 +4,7 @@ connection =  sqlite3.connect("student.db")
 cursor = connection.cursor()
 
 table_info = """
-craete table STUDENT(NAME VARCHAR2(25),CLASS VARCHAR2(25),SECTION VARCHAR2(25),MARKS INT)      
+create table STUDENT(NAME VARCHAR2(25),CLASS VARCHAR2(25),SECTION VARCHAR2(25),MARKS INT)      
 """
 cursor.execute(table_info)
 
