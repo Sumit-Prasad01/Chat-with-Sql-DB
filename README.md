@@ -187,4 +187,6 @@ verbose=True  # Already enabled in the code
 
 ---
 
+- Streamlit App Link - https://sumit-prasad01-chat-with-sql-db-app-ps8ihs.streamlit.app/
+
 **Made with using LangChain and Streamlit**
